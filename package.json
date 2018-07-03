@@ -22,7 +22,7 @@
   "author": "Jonathan Warner",
   "license": "MIT",
   "dependencies": {
-    "googleapis": "~0.6.1",
+    "googleapis": "~3.0.0",
     "dot": "~1.0.2"
   }
 }
